@@ -1,0 +1,7 @@
+.h1{
+    font-size: 1.3em;
+    margin: 16px 0;
+    width: 100%;
+    color: var(--cor04);
+    font-weight: 700;
+}

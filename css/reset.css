@@ -15,8 +15,11 @@ body,html{
 }
 .center{
 	width: 100%;
-	max-width: 1224px;
+	max-width: 1024px;
 	display: flex;
 	padding: 0 2%;
 	margin: auto;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
 }
