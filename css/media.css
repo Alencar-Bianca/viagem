@@ -1,0 +1,25 @@
+@media screen and (max-width: 768px){
+    .countries-wrapper{
+        width: 100%;
+        margin: 0;
+        margin-bottom: 15px;
+    }
+    
+}
+
+@media screen and (max-width: 320px){
+    .logo{
+        font-size: 1em;
+        text-align: left;
+    }
+    .para{
+        font-size: 1em;
+        font-weight: 700;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .h1{
+        color: rgb(87, 85, 85);
+    }
+}
