@@ -6,5 +6,5 @@
 **VAlencar** This project was made only to test my knowledge in HTML and CSS
 
 ## 🔨 Tools
-- [HTML] (https://www.w3.org/)
+- HTML
 - CSS
