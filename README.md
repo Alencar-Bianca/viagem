@@ -1,8 +1,4 @@
-<h1>VAlencar ✈<h1>
-
-
-#### 📕📖 About
-
+#### 📕 About the Project
 **VAlencar** This project was made only to test my knowledge in HTML and CSS
 
 ## 🔨 Tools
