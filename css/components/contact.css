@@ -1,12 +1,12 @@
 .contact{
-    background-color: gray;
+    background-color: #be7d8d;
 }
 .form{
     padding: 40px;
 }
 .contact .h1{
     font-size: 2em;
-    
+    color: var(--cor01);
 }
 .input{
     width: 100%;
